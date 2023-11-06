@@ -26,7 +26,7 @@ function AnimatedGrid({ boxWidth }) {
           animate={{
             boxShadow: [
               "none",
-              "rgba(59, 131, 246, 0.11) 0px 1px 100px 0px, rgba(169, 85, 247, 0.11) 0px 1px 100px 0px",
+              "rgba(59, 131, 246, 0.2) 0px 1px 100px 0px, rgba(169, 85, 247, 0.2) 0px 1px 100px 0px",
               "none",
             ],
           }}
